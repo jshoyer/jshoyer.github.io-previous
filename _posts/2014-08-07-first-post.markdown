@@ -2,13 +2,13 @@
 
 title: First post
 layout: default
-categories: first-category second
+categories: 
 
 ---
 
 This is the first post woohoo
 
-- http://orcid.org/0000-0002-1338-8900
-- [[http://scholar.google.com/citations?user=AWRhHlsAAAAJ&hl=en&oi=pll]]
-- Public pubmed profile: [[http://www.ncbi.nlm.nih.gov/sites/myncbi/collections/public/1pUY6yX9wdp6ddly0uxWlockq/]]
+- ORCID: [0000-0002-1338-8900](http://orcid.org/0000-0002-1338-8900)
+- [Google Scholar profile](http://scholar.google.com/citations?user=AWRhHlsAAAAJ&hl=en&oi=pll)
+- [Public pubmed profile]( [[http://www.ncbi.nlm.nih.gov/sites/myncbi/collections/public/1pUY6yX9wdp6ddly0uxWlockq/]])
   - this will likely get out of date
