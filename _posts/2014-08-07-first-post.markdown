@@ -15,3 +15,9 @@ categories:
   - this will likely get out of date
 - Some [small wikipedia contributions](https://en.wikipedia.org/wiki/Special:Contributions/JS_Hoyer)
 - [GitHub repositories](https://github.com/jshoyer?tab=repositories)
+
+Also relevant (though I don't expect specific links to remain stable):
+[Danforth Center], [WUSTL DBBS].
+
+[Danforth Center]:http://danforthcenter.org
+[WUSTL DBBS]:http://dbbs.wustl.edu

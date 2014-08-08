@@ -1,0 +1,13 @@
+---
+
+title: Blogging platforms, content management systems, etc.
+layout: default
+categories: 
+
+---
+
+I have fiddled with blogger, wordpress, and tumblr.
+I've also experimented a little bit with drupal, mediawiki, and dokuwiki.
+I think that writing in emacs will be more satisfactory.
+I don't want to spend a bunch of time messing with jekyll.
+Perhaps I should experiment more with github wikis.
