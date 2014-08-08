@@ -1,0 +1,11 @@
+---
+
+title: These pages will probably go away
+layout: default
+categories: 
+
+---
+
+Broken links make me sad, because I bookmark with firefox.
+No guarantees for these posts---I will probably later scrap this
+entire set of pages!
