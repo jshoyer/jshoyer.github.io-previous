@@ -1,0 +1,11 @@
+
+---
+
+title: URLs (1)
+layout: default
+categories: 
+
+---
+
+URLs are for people.
+They should look nice.

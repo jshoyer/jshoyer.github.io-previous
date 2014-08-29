@@ -21,3 +21,6 @@ Also relevant (though I don't expect specific links to remain stable):
 
 [Danforth Center]:http://danforthcenter.org
 [WUSTL DBBS]:http://dbbs.wustl.edu
+
+This site (blog?) was forked from/built on this theme:
+https://github.com/nhoss2/jekyll-bootstrap
