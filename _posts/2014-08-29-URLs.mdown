@@ -1,4 +1,3 @@
-
 ---
 
 title: URLs (2)
@@ -9,3 +8,5 @@ categories:
 
 What if I give two posts the same short name
 (filenames the same, except for the date)?
+The more recent post 'wins'
+(i.e. the URL directs to that one).
