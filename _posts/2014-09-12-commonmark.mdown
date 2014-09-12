@@ -9,8 +9,10 @@ categories:
 
 I don't like Markdown.
 I hope CommonMark will improve consistency.
-My previous post renders fine in their
-dingus
+Maybe they will define an inline comment style
+<--! I can't remember the syntax for and don't like HTML comments.--->
+My previous post renders fine in the CommonMark
+'dingus for testing'
 but not on this jekyll site/blog,
 because it has a '.mdown' extension.
 I found this strange because the
