@@ -22,7 +22,7 @@ Here is my profile:
 https://www.zotero.org/jshoyer
 
 In case you missed it below, here again is my [ORCID page].
-I am orc #0000-0002-1338-8900.
+I am orc number 0000-0002-1338-8900.
 
 [ORCID page]: http://orcid.org/0000-0002-1338-8900
 [Infinite storage]: https://www.zotero.org/support/storage
