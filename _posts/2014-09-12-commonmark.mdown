@@ -10,10 +10,16 @@ categories:
 I don't like Markdown.
 I hope CommonMark will improve consistency.
 My previous post renders fine in their
-'[dingus](http://jgm.github.io/stmd/js/)'
+dingus
 but not on this jekyll site/blog,
 because it has a '.mdown' extension.
 I found this strange because the
-[first example/test post](https://github.com/nhoss2/jekyll-bootstrap/blob/gh-pages/_posts/2011/2011-08-03-first-post.mdown)
+[first example/test post]
 ends in '.mdown'.
 However, that post doesn't have any links.
+
+Here is the url for their dingus in the form of a nonworking link:
+'[dingus](http://jgm.github.io/stmd/js/)
+
+And here is a nonworking reference-style link:
+[first example/test post]:https://github.com/nhoss2/jekyll-bootstrap/blob/gh-pages/_posts/2011/2011-08-03-first-post.mdown
