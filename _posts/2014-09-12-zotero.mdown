@@ -7,23 +7,22 @@ categories:
 ---
 
 Zotero is great.
-[Infinite storage] is cheap!
+[Infinite storage](https://www.zotero.org/support/storage)
+is cheap!
 I hope that someday there will be lots of active groups sharing
 interesting reading.
 (These currently need to be semi-private---you can't share attachments
 in fully public [anyone can join] groups).
 
 Zotero could get even better if I find better ways to use it with
-[Zotelo] in emacs or figure out better ways to [integrate] it with the
-firefox omnibar, the file system, etc.
+[Zotelo](https://github.com/vitoshka/zotelo)
+in emacs or figure out better ways to
+[integrate](https://forums.zotero.org/discussion/34183/search-library-directly-from-firefox-location-bar/#Item_1)
+it with the firefox omnibar, the file system, etc.
 
 Here is my profile:
 https://www.zotero.org/jshoyer
 
-In case you missed it below, here again is my [ORCID page].
+In case you missed it below, here again is my [ORCID page](http://orcid.org/0000-0002-1338-8900)
 I am orc #0000-0002-1338-8900.
 
-[ORCID page]: http://orcid.org/0000-0002-1338-8900
-[Infinite storage]: https://www.zotero.org/support/storage
-[Zotelo]: https://github.com/vitoshka/zotelo
-[integrate]: https://forums.zotero.org/discussion/34183/search-library-directly-from-firefox-location-bar/#Item_1
