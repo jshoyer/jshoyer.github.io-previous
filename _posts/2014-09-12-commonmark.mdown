@@ -11,5 +11,9 @@ I don't like Markdown.
 I hope CommonMark will improve consistency.
 My previous post renders fine in their
 '[dingus](http://jgm.github.io/stmd/js/)'
-but not on this jekyll site/blog.
-Please contact me if you can figure out what I'm doing wrong.
+but not on this jekyll site/blog,
+because it has a '.mdown' extension.
+I found this strange because the
+[first example/test post](https://github.com/nhoss2/jekyll-bootstrap/blob/gh-pages/_posts/2011/2011-08-03-first-post.mdown)
+ends in '.mdown'.
+However, that post doesn't have any links.
