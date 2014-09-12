@@ -12,7 +12,7 @@ Zotero is great.
 I hope that someday there will be lots of active groups sharing
 interesting reading.
 (These currently need to be semi-private---you can't share attachments
-in fully public [anyone can join] groups).
+in fully public groups that anyone can join).
 Here is my profile.
 
 Zotero could get even better if I find better ways to use it with
