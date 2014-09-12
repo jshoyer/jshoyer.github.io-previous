@@ -1,0 +1,15 @@
+---
+
+title: CommonMark
+layout: default
+categories: 
+
+---
+
+
+I don't like Markdown.
+I hope CommonMark will improve consistency.
+My previous post renders fine in their
+'[dingus](http://jgm.github.io/stmd/js/)'
+but not on this jekyll site/blog.
+Please contact me if you can figure out what I'm doing wrong.
