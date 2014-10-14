@@ -15,6 +15,17 @@ Pull requests welcome.
 Pedantic note: Rosalind technically didn't use crystallography to
 study DNA---she used fiber diffraction.
 
+In my biochemistry class there was a great demonstration of how Photo
+51-style diffraction diagrams suggested the helical nature of DNA.
+I wish I could still remember the optics.
+I'm nearly certain that the lesson used the kit at the top of this page:
+http://ice.chem.wisc.edu/Catalog/SciKits.html
+
+Incidentally, there was also a great multiweek somewhat
+crystallography-related lab project in that class.
+The published description is behind a paywell, sadly.  Really ACS?
+http://pubs.acs.org/doi/full/10.1021/ed8000842
+
 I think we can all agree that Nobel prizes awarded to one to three
 people are no longer a good way to recognize scientific achievents.
 Maybe they never were.
@@ -40,3 +51,12 @@ next year.  Hopefully this site will be a little more stable by then
 and/or may have an RSS feed.
 Or perhaps I will have sworn off of github because of the allegations
 of sexism or something.
+
+Thoughts of STM remind me that Bonnie Bassler is a seriously awesome
+scientist.  I saw her speak almost exactly eight years ago and it
+still stands out to me as one of the best talks I've ever seen.
+
+Incidentally, I like the fact that most of the photos on the chem
+department web site are over five years old.  I like seeing the people
+who were there when I was!
+http://www.swarthmore.edu/chemistry-biochemistry
