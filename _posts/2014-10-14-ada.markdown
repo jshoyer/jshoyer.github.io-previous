@@ -9,19 +9,34 @@ categories:
 I'll try to write some more thoughts about Rosalind Franklin
 (and perhaps Barbara McClintock---I'm surprised no one has written
 about her this year).
+I'm sorry I can't yet be bothered to actually the syntax for markdown links.
+Pull requests welcome.
 
 Pedantic note: Rosalind technically didn't use crystallography to
 study DNA---she used fiber diffraction.
 
-
 I think we can all agree that Nobel prizes awarded to one to three
 people are no longer a good way to recognize scientific achievents.
 Maybe they never were.
+See Zimmer (2011).
+http://blogs.discovermagazine.com/loom/2011/10/06/the-tedious-inevitability-of-nobel-prize-disputes/
 
 Someone wrote about Dorothy Hodgkin this year---sweet.  I'd like to learn more
-about her.
+about her.  I see that my library has a biography on her.
+And maybe she wrote a forward to a book on the SDI/"Star wars"?
+Always a fun topic.
+http://trowelblazers.com/dorothy-crowfoot-hodgkin/
 
 - http://findingada.com/read-2014s-stories/
   - http://findingada.com/about/faq/
 
-http://blogs.discovermagazine.com/loom/2011/10/06/the-tedious-inevitability-of-nobel-prize-disputes/
+I recently read some of a book on
+'Why aren't more women in science?'
+http://books.google.com/books?id=e7XaAAAAMAAJ&source=gbs_ViewAPI
+I liked the empiricism.
+
+I resolve to actually write and submit a blog post to the Ada site
+next year.  Hopefully this site will be a little more stable by then
+and/or may have an RSS feed.
+Or perhaps I will have sworn off of github because of the allegations
+of sexism or something.
