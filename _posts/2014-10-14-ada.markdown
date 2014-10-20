@@ -12,8 +12,6 @@ categories:
 I'll try to write some more thoughts about Rosalind Franklin
 (and perhaps Barbara McClintock---I'm surprised no one has written
 about her this year).
-I'm sorry I can't yet be bothered to actually the syntax for markdown links.
-Pull requests welcome.
 
 Pedantic note: Rosalind technically didn't use crystallography to
 study DNA---she used fiber diffraction.
@@ -47,8 +45,10 @@ Always a fun topic.
 
 I recently read some of a book on
 'Why aren't more women in science?'
-([Google book link.](http://books.google.com/books?id=e7XaAAAAMAAJ&source=gbs_ViewAPI).)
+([Google book link](http://books.google.com/books?id=e7XaAAAAMAAJ&source=gbs_ViewAPI).)
 I liked the empiricism.
+The authors sort of interpreted the same data in opposite ways though,
+so it wasn't so conclusive.
 
 I resolve to actually write and submit a blog post to the Ada site
 next year.  Hopefully this site will be a little more stable by then
