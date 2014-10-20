@@ -20,7 +20,7 @@ accurate.
 
 - ORCID: [0000-0002-1338-8900](http://orcid.org/0000-0002-1338-8900)
   - Populates my minimal NCBI biosketch /
-    '[ScienCV]'(http://www.ncbi.nlm.nih.gov/myncbi/1bCJgdlz66h5t/cv/8173/)
+    '[ScienCV](http://www.ncbi.nlm.nih.gov/myncbi/1bCJgdlz66h5t/cv/8173/)'
 - [Google Scholar profile](http://scholar.google.com/citations?user=AWRhHlsAAAAJ&hl=en&oi=pll)
 - Some [yeast links on OpenWetWare](http://openwetware.org/wiki/User:J._Steen_Hoyer)
 - [figShare](http://figshare.com/authors/J_Steen_Hoyer/470222)
