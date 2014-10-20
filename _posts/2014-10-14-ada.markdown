@@ -6,6 +6,9 @@ categories:
 
 ---
 
+- [2014 Ada day posts](http://findingada.com/read-2014s-stories/),
+  [FAQ](http://findingada.com/about/faq/)
+
 I'll try to write some more thoughts about Rosalind Franklin
 (and perhaps Barbara McClintock---I'm surprised no one has written
 about her this year).
@@ -32,20 +35,19 @@ I think we can all agree that Nobel prizes awarded to one to three
 people are no longer a good way to recognize scientific achievents.
 Maybe they never were.
 See [Zimmer] (2011).
+
 [Zimmer]:http://blogs.discovermagazine.com/loom/2011/10/06/the-tedious-inevitability-of-nobel-prize-disputes/
 
 Someone [wrote] about Dorothy Hodgkin this year---sweet.  I'd like to learn more
 about her.  I see that my library has a biography on her.
 And maybe she wrote a forward to a book on the SDI/"Star wars"?
 Always a fun topic.
-[wrote]:http://trowelblazers.com/dorothy-crowfoot-hodgkin/
 
-- http://findingada.com/read-2014s-stories/
-  - http://findingada.com/about/faq/
+[wrote]:http://trowelblazers.com/dorothy-crowfoot-hodgkin/
 
 I recently read some of a book on
 'Why aren't more women in science?'
-http://books.google.com/books?id=e7XaAAAAMAAJ&source=gbs_ViewAPI
+([Google book link.](http://books.google.com/books?id=e7XaAAAAMAAJ&source=gbs_ViewAPI).)
 I liked the empiricism.
 
 I resolve to actually write and submit a blog post to the Ada site
@@ -59,6 +61,7 @@ scientist.  I saw her speak almost exactly eight years ago and it
 still stands out to me as one of the best talks I've ever seen.
 
 Incidentally, I like the fact that most of the photos on the chem
-department web site are over five years old.  I like seeing the people
+[department web site] are over five years old.  I like seeing the people
 who were there when I was!
-http://www.swarthmore.edu/chemistry-biochemistry
+
+[department web site]:http://www.swarthmore.edu/chemistry-biochemistry
