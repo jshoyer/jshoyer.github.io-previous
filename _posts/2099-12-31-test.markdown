@@ -6,6 +6,17 @@ categories:
 
 ---
 
+Attention conservation notice:
+I am a graduate student.
+Half-baked ideas may appear here.
+I don't recommend linking or bookmarking the pages---they will
+probably go away, and I they certainly won't be stable or historically
+accurate.
+
+<!-- Commentary:
+     people expect github user page,
+     therefore should have one.
+ --> 
 
 - ORCID: [0000-0002-1338-8900](http://orcid.org/0000-0002-1338-8900)
   - Populates my minimal NCBI biosketch /
