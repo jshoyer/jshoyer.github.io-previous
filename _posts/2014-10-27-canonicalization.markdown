@@ -15,6 +15,10 @@ was quite informative,
 but I don't quite understand the Handle System
 or what exactly google does.
 
+I wonder if the author coined the word 'canonicalization'.
+Seems like the old 'canonization' would have worked fine.
+Sounds more dignified, less technical.
+
 One of my two publications has the word 'canonical' in the title.
 Maybe not the most informative word for nonexperts.
 Someday the protein I spent so much time purifying and cooking will
