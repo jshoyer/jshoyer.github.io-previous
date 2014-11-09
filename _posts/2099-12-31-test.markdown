@@ -13,9 +13,14 @@ I don't recommend linking or bookmarking the pages---they will
 probably go away, and they certainly won't be stable or historically
 accurate.
 
+See New Yorker cartoon: cave man steps out of time machine.
+"I have come from the future---to warn you that nothing much changes
+in the next 100 years."
+
 <!-- Commentary:
      people expect github user page,
      therefore should have one.
+     I should really watch 'Back to the Future' again.  And the sequels.
  --> 
 
 - ORCID: [0000-0002-1338-8900](http://orcid.org/0000-0002-1338-8900)
