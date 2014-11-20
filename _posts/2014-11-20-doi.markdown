@@ -1,0 +1,19 @@
+---
+
+title: Elsevier broke their DOI redirection---that is rude
+layout: default
+categories: whining DOI pubmode keyboard
+
+---
+
+CrossRef
+links from
+ScienceDirect sidebars include strings like "&zone=rightPane&panel=workspace",
+which breaks DOI lookup.
+What ridiculous carelessness.
+
+They also seem to have changed something that breaks fulltext lookup
+with NCBI eutils.
+
+All of this forces me to click with my mouse several times more per day.
+Infuriating.
