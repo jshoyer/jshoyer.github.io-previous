@@ -14,6 +14,16 @@ What ridiculous carelessness.
 
 They also seem to have changed something that breaks fulltext lookup
 with NCBI eutils.
+(I wouldn't need to use eutils [via emacs] is crossref DOI lookup took
+you straight to the fulltext, instead of the abstract.
+Presumably if more publishing was more open and less PDF-centric I
+wouldn't have this problem.)
+
+On the plus side, I don't have to use proxy login to get to
+ScienceDirect nearly as much as I used to---many more papers are
+"Open Archived".
+The benefit of public deposition in pubmed central!
+They want the traffic and the ad revenue.
 
 All of this forces me to click with my mouse several times more per day.
 Infuriating.
