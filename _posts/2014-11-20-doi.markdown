@@ -14,7 +14,7 @@ What ridiculous carelessness.
 
 They also seem to have changed something that breaks fulltext lookup
 with NCBI eutils.
-(I wouldn't need to use eutils [via emacs] is crossref DOI lookup took
+(I wouldn't need to use eutils [via emacs] if crossref DOI lookup took
 you straight to the fulltext, instead of the abstract.
 Presumably if more publishing was more open and less PDF-centric I
 wouldn't have this problem.)
