@@ -31,5 +31,7 @@ Infuriating.
 Update [2014-12-03 17:36]:
 you can't report this stuff to CrossRef,
 because the "DOI" isn't valid.
+
 ![Alt text](./images/Screen_Shot_2014-12-02_at_1.44.33_PM.png "turkeys")
+
 That is precisely the problem!
