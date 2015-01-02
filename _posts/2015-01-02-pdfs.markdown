@@ -1,0 +1,24 @@
+---
+
+title: HTML is more convenient than PDFs
+layout: default
+categories: NPG OA whining
+
+---
+
+Already I am annoyed by the Nature content sharing thing.
+I don't want links to PDFs, I want full text HTML.
+I guess it is better than a link to pubmed or the abstract page.
+
+http://www.nature.com/npg_/company_info/content-sharing.html
+
+Link was in this article:
+http://www.nytimes.com/2015/01/02/business/energy-environment/a-gray-area-in-regulation-of-genetically-modified-crops.html?_r=0
+
+As an aside, I like the word 'transgenic' better than GM or GE.
+(Article says
+"Genetically engineered crops, popularly called genetically modified
+organisms or G.M.O.s",
+but neither of those seem as formal (or precise) to me).
+'Engineered' would be fine, but it seems like biotech
+isn't much of a formal engineering discipline yet.
