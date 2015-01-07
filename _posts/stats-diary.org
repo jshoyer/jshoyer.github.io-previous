@@ -16,7 +16,6 @@ There is a worg tutorial.
 :EXPORT_FILE_NAME: 2015-01-07-stat-diary1
 :END:
 
-*** 
 # This has no effect:
 
 #+title: Resolution: write more
@@ -28,8 +27,6 @@ layout: default
 categories: 
 ---
 #+END_HTML
-
-*** Experimenting
 
 #+BEGIN_QUOTE
 [[http://andrewgelman.com/2015/01/07/2015-statistics-diary][You should all keep statistics diaries.]]
@@ -45,11 +42,15 @@ comfortable emotional distance.
 
 I hadn't considered that before, but it makes sense.
 
-**** New subheading
-
 Writing entries in org-mode should streamline things.
 Clumsy aspect: have to manually reexport and commit output file.
 Untitled sections show up as a plain pound sign when exported from
 org-mode to markdown.
 
+Timestamps.
+They alter indentation/paragraph flow.
 [2015-01-07 15:25]
+
+*** The default font size for headings is gigantic.
+
+Also they make things more complicated.
