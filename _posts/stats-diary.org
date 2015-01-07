@@ -47,8 +47,11 @@ Clumsy aspect: have to manually reexport and commit output file.
 Untitled sections show up as a plain pound sign when exported from
 org-mode to markdown.
 
+*** 
+
 Timestamps.
 They alter indentation/paragraph flow.
+Or do they?
 [2015-01-07 15:25]
 
 *** The default font size for headings is gigantic.
