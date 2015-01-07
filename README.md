@@ -1,5 +1,6 @@
 
 This is a personal github site.
+(http://jshoyer.github.io/)
 The instructions for Jekyll bootstrap are below.
 
 ----
