@@ -1,17 +1,30 @@
 
+** Template
+
+#+BEGIN_HTML
+---
+layout: default
+title: 
+categories:
+---
+#+END_HTML
+
+There is a worg tutorial.
+
 ** Resolution: write more
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2015-01-07-stat-diary1
 :END:
-
 # This has no effect:
-#+title: Resolution: write more
 
+#+title: Resolution: write more
+#+BEGIN_HTML
 ---
 title: I resolve to write more
 layout: default
 categories: 
 ---
+#+END_HTML
 
 #+BEGIN_QUOTE
 [[http://andrewgelman.com/2015/01/07/2015-statistics-diary][You should all keep statistics diaries.]]
@@ -27,3 +40,7 @@ comfortable emotional distance.
 
 I hadn't considered that before, but it makes sense.
 
+*** 
+Writing entries in org-mode should streamline things.  
+Untitled sections show up when exported from org-mode to markdown.
+[2015-01-07 15:25]
