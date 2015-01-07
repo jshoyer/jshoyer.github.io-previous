@@ -1,0 +1,27 @@
+
+** Resolution: write more
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2015-01-07-stat-diary1
+:END:
+---
+
+title: Resolution: write more
+layout: default
+categories: 
+
+---
+
+#+BEGIN_QUOTE
+[[http://andrewgelman.com/2015/01/07/2015-statistics-diary/#more-24857][You should all keep statistics diaries.]]
+#+END_QUOTE
+
+Yes sir.
+
+#+BEGIN_QUOTE
+... statistical topics are usually less private. Indeed, even when a
+topic is highly personal, a statistical framing can provide some
+comfortable emotional distance.
+#+END_QUOTE
+
+I hadn't considered that before, but it makes sense.
+
