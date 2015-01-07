@@ -4,6 +4,9 @@
 :EXPORT_FILE_NAME: 2015-01-07-stat-diary1
 :END:
 
+# This has no effect:
+#+title: Resolution: write more
+
 ---
 title: I resolve to write more
 layout: default
