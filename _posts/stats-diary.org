@@ -1,5 +1,6 @@
 
-** Template
+# Template:   (See also worg tutorial)
+** 
 
 #+BEGIN_HTML
 ---
@@ -9,9 +10,7 @@ categories:
 ---
 #+END_HTML
 
-There is a worg tutorial.
-
-** Resolution: write more
+** Resolution: write more                                             :blog:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2015-01-07-stat-diary1
 :END:
@@ -57,3 +56,68 @@ Or do they?
 *** The default font size for headings is gigantic.
 
 Also they make things more complicated.
+** Write in diary less, introduction more
+#+BEGIN_HTML
+---
+layout: default
+title: 
+categories:
+---
+#+END_HTML
+
+Dear statistical diary,
+
+Sudden influx of Karl Broman posts.
+Was there something funny with his RSS feed or Gwene?
+Anyway, motivation to work on
+[[https://kbroman.wordpress.com/2014/12/03/the-value-of-thesis-introdiscussion/][lit review]].
+# [[gnus:gwene.com.wordpress.kbroman.stupidestthing#x1-K%2BvWKSv93EKq5mNNXiT8sN71rZY@gwene.org][Post by Karl Broman: Initial steps ...]]
+# [[gnus:gwene.com.wordpress.kbroman.stupidestthing#x1-AyrUitd1oEUWCRP02u6aADQqiXM@gwene.org][Post from Karl Broman: The value of thesis intro]]
+I like Karl's phrase:
+'Ye Olde Standard Computational Science Practice'.
+Picturing early computational scientists with tricornered hats ringing bells.
+(They use emacs, of course).
+
+Technology grating, as usual.
+RSS and email clients.
+Journal websites.
+(Repeated clicks to get to full text,
+versioning/failure to retypeset articles after correction.)
+Extra clicks to get to
+Lubinski et al. (next link)
+supplemental material
+via an issue-wide page!
+Ye Olde Web Technology?
+
+OK, I should get to work.
+Need to provide some return on the
+[[http://andrewgelman.com/2015/01/08/life-paths-accomplishments-mathematically-precocious-males-females-four-decades-later/][federal investment]]
+in my research and education.
+
+[2015-01-08 08:43]
+[2015-01-08 09:00]
+
+** 
+
+Dear statistical waitress,
+
+Andrew today:
+"I’m going to go lighter on the traditional sampling topics (ratio
+and regression estimation, stratified cluster sampling bla bla bla)
+and instead have them do Mister P for real in R and Stan, just like
+the grownups do."
+
+"No fear of dead time."
+Savor the awkward pauses!
+Same advice that STM gave for running paper discussions.
+Sort of.
+
+Just why exactly does he like Stan so much?
+
+What standardized test score data is publicly available?
+
+Reading ARM this morning.
+"... literature is full of confusing and contradictory advice. 
+[2015-01-09 09:56]
+
+** TODO org export without timestamps
