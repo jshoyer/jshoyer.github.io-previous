@@ -97,7 +97,7 @@ in my research and education.
 [2015-01-08 08:43]
 [2015-01-08 09:00]
 
-** 
+** Thinking out loud (teaching)
 
 Dear statistical waitress,
 
@@ -117,7 +117,109 @@ Just why exactly does he like Stan so much?
 What standardized test score data is publicly available?
 
 Reading ARM this morning.
-"... literature is full of confusing and contradictory advice. 
+"... literature is full of confusing and contradictory advice."
 [2015-01-09 09:56]
+
+I should really take time to enjoy stats,
+not worry so much about accomplishing things.
+
+** Trying to use org-babel.  Give up for now.
+:LOGBOOK:  
+CLOCK: [2015-01-10 Sat 12:53]--[2015-01-10 Sat 13:16] =>  0:23
+:END:      
+
+#+BEGIN_SRC R :exports both :file figure.png
+x <- 1:10
+plot(x)
+#+END_SRC
+
+Hmm.  I don't like the org-babel documentation today.
+
+Why do I need the TIKz device?
+
+R-pie example says:
+Error: could not find function ".ess.eval"
+Problem with ESS changes?
+
+[[info:org#Working with source code]]
+[[info:org#Structure of code blocks]]
+
+
+** Article on Brad Perez (Potti lab researcher)
+
+New details on the Potti case published yesterday in The Cancer Letter.
+I agree with Arthur Caplan:
+“The medical student was very brave. That was quite an act of courage."
+# I didn't realize he had moved.
+
+Strong words from Donald Berry:
+ ‘Commenting on education, the problem is really who are the
+ educators. The senior scientists are the problem. They are not the
+ solution. And...young statisticians are just as clueless as the
+ senior scientists.’
+
+*** Misc
+
+"The memo shows that, by ignoring the content of the Perez memo,
+Duke’s deans allowed Nevins to investigate his protégé himself."
+Which protégé?  Potti?
+
+Cancer Letter site annoying (big flash videos, ads), and article spread
+across four pages.  Clean up and combine.
+Don't understand scripts in header,
+or what causes the big non-loading nonlinking block.
+
+Static Header: delete entire thing.
+portletBodyHTML has much junk.
+Delete big issuu iframes.  I see now that they were intended to be
+embedded documents.  Whatever.
+
+** Rereading
+
+Reread Bob's post on Michael Jordan interview article.
+Sounds like the journalist did everything they should.
+
+Revisit The Statistical Significance Filter: If an estimate is
+statistically significant, it’s probably an overestimate.
+(Gelman and Weakliem 2009).
+Confusing language elsewhere: "necessarily an overestimate".
+I don't remember where.
+
+** "it’s hard to work intensely"
+[2015-01-11 17:04]
+
+Poincaré.
+
+shepik commented on May 12, 2012
+
+"I love it that you can easily know just by
+looking at word wraps of the comment
+whether a person is supporting Linus or not
+
+
+Andrew says:
+"And all this “statistically significant but not practically
+significant” talk can completely lead us astray, by leading us to be
+wary of very small estimates, while what we should really be
+suspicious of, is very large estimates!"
+
+Makes sense.
+
+[2015-01-12 10:26]
+
+** RSS
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2015-02-03-rss
+:END:
+
+I am sorry that I don't have an RSS feed.
+I like RSS as a technology.
+
+I like Gwene,
+but a problem is going to send me to thunderbird
+: A feed with this internal ID (http://www.sciencedirect.com) is already subscribed as gwene.com.sciencedirect.ecological.modeling.latest.content.
+
+Like this page:
+https://openaccessbutton.org/advocacy
 
 ** TODO org export without timestamps

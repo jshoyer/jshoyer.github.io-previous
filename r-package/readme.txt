@@ -13,3 +13,4 @@ Some relevant links:
 - http://cran.r-project.org/doc/manuals/R-ints.html#R-coding-standards
 - http://bioconductor.org/developers/how-to/coding-style/
 - http://master.bioconductor.org/developers/package-guidelines/
+- http://r-pkgs.had.co.nz/
