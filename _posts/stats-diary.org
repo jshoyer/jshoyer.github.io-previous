@@ -211,6 +211,14 @@ Makes sense.
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2015-02-03-rss
 :END:
+# Not strictly necessary, but shows up as Rss otherwise
+#+BEGIN_HTML
+---
+layout: default
+title: RSS
+categories: whining
+---
+#+END_HTML
 
 I am sorry that I don't have an RSS feed.
 I like RSS as a technology.
