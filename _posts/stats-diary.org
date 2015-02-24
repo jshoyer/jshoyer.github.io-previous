@@ -235,6 +235,8 @@ https://openaccessbutton.org/advocacy
 :EXPORT_FILE_NAME: 2015-02-23-fossil
 :END:
 
+version 1.3.1 just released.
+
 http://fossil-scm.org/index.html/info/a56f58299c04bdf2
 
 I agree that git is a bad fit for scientists.
@@ -243,5 +245,12 @@ Learning fossil has been too much fun---it's distracting!
 Full list: http://fossil-scm.org/index.html/doc/trunk/www/quotes.wiki
 
 More serious: http://fossil-scm.org/index.html/doc/trunk/www/fossil-v-git.wiki
+
+Related: recent complaints about jekyll on twitter.
+I will reserve my complaints for markdown itself.
+Org export converted my 'v.' for version above to a '1.'.
+I would tag this post 'whining',
+but that would take too much effort.
+
 
 ** TODO org export without timestamps
