@@ -52,10 +52,12 @@ Timestamps.
 They alter indentation/paragraph flow.
 Or do they?
 [2015-01-07 15:25]
+I guess not.
 
 *** The default font size for headings is gigantic.
 
 Also they make things more complicated.
+
 ** Write in diary less, introduction more
 #+BEGIN_HTML
 ---
@@ -115,6 +117,7 @@ Sort of.
 Just why exactly does he like Stan so much?
 
 What standardized test score data is publicly available?
+SAT data in The Sleuth.
 
 Reading ARM this morning.
 "... literature is full of confusing and contradictory advice."
@@ -252,5 +255,31 @@ Org export converted my 'v.' for version above to a '1.'.
 I would tag this post 'whining',
 but that would take too much effort.
 
+** Don't enforce Git or GitHub as a standard                          :blog:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2015-04-21-anti-git
+:END:
+
+Post title named after recent post where /x/ = =R=
+that various ecologists linked to.
+See links in previous post.
+See also the random git man page generator.
+See also the emacs listserve
+for some really hilarious comments
+by intelligent people (e.g. RMS)
+trying to understand strange and subtle git terminology.
+
+Irony of centralization yadda yadda yadda...
+
+DO enforce ISO 8601 as a standard.
+
+** Fossil 2.0
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2015-03-01-fossil-2
+:END:
+
+Just an idea for now.
+I don't have anything to say about this now.
+Just want a post with this title.
 
 ** TODO org export without timestamps
