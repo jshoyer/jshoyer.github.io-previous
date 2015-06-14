@@ -21,7 +21,8 @@ in the next 100 years."
      people expect github user page,
      therefore should have one.
      I should really watch 'Back to the Future' again.  And the sequels.
- --> 
+     October 2015.
+ -->
 
 - ORCID: [0000-0002-1338-8900](http://orcid.org/0000-0002-1338-8900)
   - Populates my minimal NCBI biosketch /
@@ -43,6 +44,11 @@ Also relevant (though I don't expect specific links to remain stable):
 
 [Danforth Center]:http://danforthcenter.org
 [WUSTL DBBS]:http://dbbs.wustl.edu
+
+Favorite sites:
+[Gelman](http://andrewgelman.com),
+[TWiV](http://twiv.tv),
+[AllSongs](http://www.npr.org/blogs/allsongs/)
 
 This site (blog?) was forked from/built on the
 [nhoss2/jekyll-bootstrap](https://github.com/nhoss2/jekyll-bootstrap)
