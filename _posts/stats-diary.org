@@ -260,6 +260,14 @@ but that would take too much effort.
 :EXPORT_FILE_NAME: 2015-04-21-anti-git
 :END:
 
+#+BEGIN_HTML
+---
+layout: default
+title: Don't enforce Git or GitHub as a standard
+categories: whining
+---
+#+END_HTML
+
 Post title named after recent post where /x/ = =R=
 that various ecologists linked to.
 See links in previous post.
