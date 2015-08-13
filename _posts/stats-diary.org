@@ -283,7 +283,7 @@ DO enforce ISO 8601 as a standard.
 
 ** Magit 1.2.0                                                        :blog:
 :PROPERTIES:
-:EXPORT_FILE_NAME: 2015-08-13-magit-1.2.0
+:EXPORT_FILE_NAME: 2015-08-13-magit-2
 :END:
 
 New release (user interface largely the same),
