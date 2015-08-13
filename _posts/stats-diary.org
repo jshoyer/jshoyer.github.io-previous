@@ -281,6 +281,19 @@ Irony of centralization yadda yadda yadda...
 
 DO enforce ISO 8601 as a standard.
 
+** Magit 1.2.0                                                        :blog:
+:PROPERTIES:
+:EXPORT_FILE_NAME: 2015-08-13-magit-1.2.0
+:END:
+
+New release (user interface largely the same),
+and the fact that Junio Hamano is
+(or at least used to be)
+a devoted TWiV listener and [[https://disqus.com/by/juniochamano][commenter]]
+makes me feel some goodwill toward Git.
+
+Disqus is turning into a bit of a time suck.
+
 ** Fossil 2.0
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2015-03-01-fossil-2
