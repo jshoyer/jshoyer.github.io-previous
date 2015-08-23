@@ -264,7 +264,7 @@ but that would take too much effort.
 ---
 layout: default
 title: Don't enforce Git or GitHub as a standard
-categories: whining
+categories: whining git
 ---
 #+END_HTML
 
@@ -286,6 +286,14 @@ DO enforce ISO 8601 as a standard.
 :EXPORT_FILE_NAME: 2015-08-13-magit-2
 :END:
 
+#+BEGIN_HTML
+---
+title: Magit 1.2.0
+layout: default
+categories: git emacs TWiV
+---
+#+END_HTML
+
 New release (user interface largely the same),
 and the fact that Junio Hamano is
 (or at least used to be)
@@ -302,7 +310,7 @@ Disqus is turning into a bit of a time suck.
 ---
 title: Git 2.5.0
 layout: default
-categories: 
+categories: git
 ---
 #+END_HTML
 
