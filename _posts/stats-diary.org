@@ -298,6 +298,13 @@ Disqus is turning into a bit of a time suck.
 :PROPERTIES:
 :EXPORT_FILE_NAME: 2015-08-23-git-2_5
 :END:
+#+BEGIN_HTML
+---
+title: Git 2.5.0
+layout: default
+categories: 
+---
+#+END_HTML
 
 It took me a while to notice this.
 I am surprised that I am actually excited
