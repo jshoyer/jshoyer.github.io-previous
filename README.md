@@ -1,7 +1,8 @@
 
-This is a personal github site.
-(http://jshoyer.github.io/)
-The instructions for Jekyll bootstrap are below.
+This was a personal github site,
+that used to be at
+http://jshoyer.github.io/.
+The instructions for nhoss's Jekyll bootstrap are below.
 
 ----
 

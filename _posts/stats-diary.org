@@ -344,6 +344,8 @@ to be so slow as to be unusable?
 HealthReport tells me that I have
 ~14000 bookmarks
 and ~32000 lines in my places database table.
+(This is a longstanding problem,
+ not new to this version.)
 
 ** Fossil 2.0
 :PROPERTIES:
